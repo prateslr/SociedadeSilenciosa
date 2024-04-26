@@ -1,3 +1,3 @@
 # SociedadeSilenciosa
 
-# https://github.com.io/DevLucasP/SociedadeSilenciosa/FeiraTec/index.html
+https://DevLucasP.github.io/SociedadeSilenciosa/FeiraTec/index.html
