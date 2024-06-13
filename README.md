@@ -1,1 +1,1 @@
-# https://devlucasp.github.io/SociedadeSilenciosa/
+# https://DevLucasP.github.io/SociedadeSilenciosa/index.html
