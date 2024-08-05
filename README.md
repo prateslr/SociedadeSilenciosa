@@ -1,1 +1,1 @@
-https://devlucasp.github.io/SociedadeSilenciosa/index.html
+https://pratestech.github.io/SociedadeSilenciosa/index.html
